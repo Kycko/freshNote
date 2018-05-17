@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">freshNote</string>
+    <string name="app_name" translatable="false">freshNote</string>
+    <string name="settings">Settings</string>
 </resources>
